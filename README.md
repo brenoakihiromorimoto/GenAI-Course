@@ -22,10 +22,7 @@ This is a project for the Udacity Artificial Intelligence Nanodegree. The goal o
 6. Substitute URL on "loader = CSVLoader(**"/content/df_home_match.csv"**)" in **home_match_app.ipynb** to **Listings(.txt)** converted csv or take "Listings(.csv) instead".
 7. Run the app: **home_match_app.ipynb**.
 ## Prerequisites and Dependencies
-
-- Python 3.7 or higher
-- XYZ Library (version X.X.X)
-- ...
+- **requirements.txt**.
 
 ## Contribution
 

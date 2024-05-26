@@ -18,7 +18,7 @@ This is a project for the Udacity Artificial Intelligence Nanodegree. The goal o
 2. Make sure you have the necessary dependencies installed (listed in the requirements.txt file).
 3. Run the main project file, for example, `main.py`.
 4. Follow the instructions provided in the terminal to interact with the real estate agent.
-5. Put your OpenAI Key to execute chatbot functions on **HomeMatch_V2.ipynb** and **home_match_app.ipynb**: os.environ['OPENAI_API_KEY']='<PUT YOUR API KEY HERE>'
+5. Put your OpenAI Key to execute chatbot functions on **HomeMatch_V2.ipynb** and **home_match_app.ipynb**: os.environ['OPENAI_API_KEY']='PUT YOUR API KEY HERE'
 
 ## Prerequisites and Dependencies
 

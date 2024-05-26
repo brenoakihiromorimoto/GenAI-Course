@@ -19,7 +19,7 @@ This is a project for the Udacity Artificial Intelligence Nanodegree. The goal o
 3. Run the main project file, for example, `main.py`.
 4. Follow the instructions provided in the terminal to interact with the real estate agent.
 5. Put your OpenAI Key to execute chatbot functions on **HomeMatch_V2.ipynb** and **home_match_app.ipynb**: os.environ['OPENAI_API_KEY']='PUT YOUR API KEY HERE'
-6. Substitute URL on "loader = CSVLoader(**"/content/df_home_match.csv"**)" in **home_match_app.ipynb** to **Listings(.txt)** converted csv.
+6. Substitute URL on "loader = CSVLoader(**"/content/df_home_match.csv"**)" in **home_match_app.ipynb** to **Listings(.txt)** converted csv or take "Listings(.csv) instead".
 
 ## Prerequisites and Dependencies
 

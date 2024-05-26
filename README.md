@@ -4,10 +4,13 @@ This is a project for the Udacity Artificial Intelligence Nanodegree. The goal o
 
 ## Features
 - A TXT file with 10 examples of Home descriptions: **Listings(.txt)**.
-- Generating realistic real estate listings using a Large Language Model (LLM).
-- Storing listing embeddings in a vector database.
-- Semantic search of listings based on buyer preferences.
-- Augmenting listing descriptions based on buyer preferences.
+- A IPYNB file with step by step development called **HomeMatch_V2.ipynb**:
+  - Generating realistic real estate listings using a Large Language Model (LLM).
+  - Storing listing embeddings in a vector database.
+  - Semantic search of listings based on buyer preferences.
+  - Augmenting listing descriptions based on buyer preferences.
+- A IPYNB file with final demo app with some adaptations to deployment environment called **home_match_app.ipynb**.
+  - Run the application.  
 
 ## How to Run
 
@@ -15,6 +18,7 @@ This is a project for the Udacity Artificial Intelligence Nanodegree. The goal o
 2. Make sure you have the necessary dependencies installed (listed in the requirements.txt file).
 3. Run the main project file, for example, `main.py`.
 4. Follow the instructions provided in the terminal to interact with the real estate agent.
+5. Put your OpenAI Key to execute chatbot functions on **HomeMatch_V2.ipynb** and **home_match_app.ipynb**: os.environ['OPENAI_API_KEY']='<PUT YOUR API KEY HERE>'
 
 ## Prerequisites and Dependencies
 

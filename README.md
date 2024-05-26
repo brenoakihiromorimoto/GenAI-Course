@@ -3,7 +3,7 @@
 This is a project for the Udacity Artificial Intelligence Nanodegree. The goal of this project is to create a personalized real estate agent that uses AI techniques to help buyers find properties that match their preferences.
 
 ## Features
-
+- A TXT file with 10 examples of Home descriptions: **Listings(.txt)**.
 - Generating realistic real estate listings using a Large Language Model (LLM).
 - Storing listing embeddings in a vector database.
 - Semantic search of listings based on buyer preferences.

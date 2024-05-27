@@ -6,11 +6,6 @@ Este repositório contém projetos e exercícios desenvolvidos durante o curso d
 
 - [Introdução](#introdução)
 - [Pré-requisitos](#pré-requisitos)
-- [Estrutura do Repositório](#estrutura-do-repositório)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Introdução
 
